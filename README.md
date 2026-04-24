@@ -2,7 +2,7 @@
 
 Evaluates how different decision-making systems — a production PHP heuristic, an improved rule-based formula, and a Claude AI agent — perform when prioritizing real-world work under uncertainty.
 
-See [report.md](report.md) for the full write-up and findings.
+See [REPORT.md](REPORT.md) for the full write-up and findings.
 
 ## Overview
 
